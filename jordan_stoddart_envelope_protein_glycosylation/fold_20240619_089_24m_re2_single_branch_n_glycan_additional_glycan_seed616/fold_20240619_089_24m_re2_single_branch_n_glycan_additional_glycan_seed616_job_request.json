@@ -1,0 +1,53 @@
+[{
+ "name": "20240619_089_24M_rE2_single_branch_N_glycan_additional_glycan_seed616",
+ "modelSeeds": [
+  "616"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "AGTYITGGRVGHTVHSFTSLFNAGPRQKLQLVNTNGSWHINSTALNCNESINTGFIAGLFAHHKFNSTGCPQRLSSCKPITYFNQGWGPLTDANISNPSADKPYCWHYAPRPCDTVPARNVCGPVYCFTPSPVVVGTTNAEGAPTYTWGEKDTDVFLLKSLRPPSGRWFGCTWMNSTGFVKTCGAPPCNIYGDRRSYGNGSDLFCPTDCFRKHPDATYSRCGAGPWLTPRCMVDYPYRLWHYPCTANFVLFKVRMFVGGFEHRFDAACNWTRGERCDIEDRDRAER",
+    "glycans": [
+     {
+      "residues": "NAG(NAG(BMA(BMA)(BMA)))",
+      "position": 35
+     },
+     {
+      "residues": "NAG(NAG(BMA(BMA)(BMA)))",
+      "position": 41
+     },
+     {
+      "residues": "NAG(NAG(BMA(BMA)(BMA)))",
+      "position": 48
+     },
+     {
+      "residues": "NAG(NAG(BMA(BMA)(BMA)))",
+      "position": 66
+     },
+     {
+      "residues": "NAG(NAG(BMA(BMA)(BMA)))",
+      "position": 94
+     },
+     {
+      "residues": "NAG(NAG(BMA(BMA)(BMA)))",
+      "position": 97
+     },
+     {
+      "residues": "NAG(NAG(BMA(BMA)(BMA)))",
+      "position": 175
+     },
+     {
+      "residues": "NAG(NAG(BMA(BMA)(BMA)))",
+      "position": 199
+     },
+     {
+      "residues": "NAG(NAG(BMA(BMA)(BMA)))",
+      "position": 269
+     }
+    ],
+    "count": 1
+   }
+  }
+ ]
+}
+]
